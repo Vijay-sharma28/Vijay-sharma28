@@ -1,6 +1,13 @@
 # 💫 About Me:
 I am a frontend and MERN stack web developer with strong experience in building real-world, scalable web applications using HTML, CSS, JavaScript, React, Node.js, and MongoDB. I have worked on frontend-heavy, UI-focused, and full-stack projects, including open-source and academic projects, with a clear emphasis on clean architecture, responsive design, and maintainable code. My technical interests include advanced React patterns, REST API development, backend optimization, secure authentication mechanisms using JWT and OTP, and modern UI/UX best practices. I am actively seeking opportunities for internships and collaborative projects where I can apply my skills, contribute to production-ready applications, and continue growing as a full-stack developer while following industry-standard development and deployment workflows.
 
+**Skills:**
+Frontend: HTML, CSS, JavaScript, React
+Learning: MERN Stack (MongoDB, Express, Node.js)
+Design & UI/UX: Canva, Figma, UI/UX Design
+Tools & Platforms: Git, GitHub, Wix
+Additional: Power BI, Data Visualization, PHP, SQL
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vijay-sharma-7a4391317) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sharma_vijay28) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vijaysharma6402@gmail.com)  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vijay.sharma.568767) 
