@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend & MERN stack projects (React, Node.js, MongoDB) and real-world web applications<br>Open-source projects, frontend/UI projects, and full-stack web apps<br>Advanced React patterns, backend optimization, and deployment best practices<br>MERN Stack, REST APIs, Authentication (JWT, OTP), and modern UI/UX<br>HTML, CSS, JavaScript, React, GitHub, Web Projects, and UI design<br>I can spend hours fixing UI alignment but still enjoy it 😄
+I am a frontend and MERN stack web developer with strong experience in building real-world, scalable web applications using HTML, CSS, JavaScript, React, Node.js, and MongoDB. I have worked on frontend-heavy, UI-focused, and full-stack projects, including open-source and academic projects, with a clear emphasis on clean architecture, responsive design, and maintainable code. My technical interests include advanced React patterns, REST API development, backend optimization, secure authentication mechanisms using JWT and OTP, and modern UI/UX best practices. I am actively seeking opportunities for internships and collaborative projects where I can apply my skills, contribute to production-ready applications, and continue growing as a full-stack developer while following industry-standard development and deployment workflows.
 
 
 ## 🌐 Socials:
